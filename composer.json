@@ -1,0 +1,19 @@
+{
+    "name": "ab163github/dunces-test",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ab11",
+            "email": "ab__@163.com"
+        }
+    ],
+    "require": {
+        "ab163github/dunces":"dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Apps\\":"Apps/"
+        }
+    }
+}
